@@ -1,0 +1,22 @@
+.container{
+    padding: 0;
+    margin: 0;
+    height: 100px;
+    color: white;
+    max-width: 100%;
+    
+}
+
+.navbar-expand-lg{
+    justify-content: space-between;
+}
+
+.navbar  .navbar-dark .bg-dark{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
+

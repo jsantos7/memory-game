@@ -1,0 +1,14 @@
+/*.box{*/
+/*    width: 20px;*/
+/*    height: 20px;*/
+/*    border-radius: 25px;*/
+/*    background: #7E7C80;*/
+/*}*/
+
+.box-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  justify-content: center;
+}
